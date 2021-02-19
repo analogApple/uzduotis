@@ -1,3 +1,4 @@
 export enum ENavKeys {
-  Main = 'Main',
+  Recursive = 'Recursive',
+  Iterative = 'Iterative',
 }
